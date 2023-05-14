@@ -1,3 +1,1 @@
-HI !
-
-JFLD:SJLFJKL:SDJKL:
+Science Bowl Web Scraper and fun multiplayer game thing.
