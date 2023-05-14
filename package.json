@@ -1,0 +1,24 @@
+{
+  "name": "science_bowl_website",
+  "version": "1.0.0",
+  "description": "Science Bowl Web Scraper and fun multiplayer game thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh-max/Science_Bowl_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivansh-max/Science_Bowl_Website/issues"
+  },
+  "homepage": "https://github.com/shivansh-max/Science_Bowl_Website#readme",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "pdf-parse": "^1.1.1"
+  }
+}
